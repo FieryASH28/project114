@@ -1,0 +1,33 @@
+body {
+    font-family: fantasy;
+    background-color:powderblue;
+}
+.header_div {
+    background-color: powderblue;
+    color: red;
+}
+.header_div p {
+    font-family: 'Courier New', Courier, monospace;
+    color:red;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main-div button {
+    font-family: fantasy;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: red;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: blueviolet;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px greenyellow;
+}
